@@ -26,6 +26,3 @@ Aplikasi desktop berbasis Python yang memungkinkan pengguna melakukan pendaftara
 - `ttk` (drop-down menu)
 
 ---
-
-## 🗃️ Struktur Folder
-
